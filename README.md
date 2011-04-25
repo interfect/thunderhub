@@ -1,1 +1,1 @@
-![Thunderhub](http://kitgoncharov.github.com/evil.js/logo.png "Thunderhub")
+![Thunderhub](http://files.g4tv.com/ImageDb3/206922_S/Hot-Tub-Time-Machine-Nostalgia-and-Gaming.jpg "Thunderhub")
