@@ -7,3 +7,6 @@ Rules:
 0) There are no rules
 1) See 0
 2) Exposure to further rules are not part of this Aperture Science test.
+
+Ideas:
+1) NodeJS server that communicates with apps written in different langeuages and platforms.
