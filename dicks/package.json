@@ -1,0 +1,7 @@
+{"name":"dicks"
+,"version":"0.0.4"
+,"author":"Boliver T. Shagnasty <dicks@libernil.org>"
+,"description":"Prints an arbitrary number of ASCII dicks (default is 5). (Now with an async api!)"
+,"bin":{"dicks":"./bin/dicks.js"}
+,"main":"./lib/dicks.js"
+}
