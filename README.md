@@ -98,6 +98,11 @@
                    ..  ...     .                    
 
 ```
+
+![groupon](http://27.media.tumblr.com/tumblr_lk8z2qvaEg1qzr3ooo1_500.png)
+
+![proud](http://29.media.tumblr.com/tumblr_ljibrnW9ud1qzr3ooo1_500.jpg)
+
 =======
 # Welcome to the Thunderflub!
 
