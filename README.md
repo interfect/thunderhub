@@ -1,4 +1,4 @@
-# Welcome to the Thunderhub!
+# Welcome to the Thunderflub!
 
 Anyone can become a committer to this repository (submit your GitHub username to begin):
 <http://ejohn.org/apps/thunderhub/>
