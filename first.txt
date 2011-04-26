@@ -1,5 +1,0 @@
- ff             t 
- f  ii          t 
-fff    rrr  ss ttt
- f  ii r    s   t 
- f  ii r   ss   tt

@@ -1,5 +1,0 @@
-procedure compute_g(i):
-      if f(i,i) == 0 then
-          return 0
-       else
-          loop forever
