@@ -99,6 +99,10 @@
 
 ```
 
+![groupon](http://i.imgur.com/0shyx.png "groupon")
+
+![proud](http://i.imgur.com/m6YcK.jpg "proud")
+
 =======
 # Welcome to the Thunderflub!
 
