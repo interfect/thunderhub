@@ -1,0 +1,3 @@
+[submodule "dna"]
+	path = dna
+	url = https://github.com/msporny/dna.git
